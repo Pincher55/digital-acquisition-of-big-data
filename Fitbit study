@@ -1,0 +1,21 @@
+**Objective** :  does a group challenge increase the number of steps people take?
+
+### Classic statistical considerations
+ - Effect size [insert research here) ==>number
+ 
+ ### some considerations
+ - What is a group? [FB groups vs friends in physical world];
+ - How are messages shared?  (What are patterns of commenting)
+ - Named challenges
+ - How to track dynamics of group membership?
+ -  Spillover
+ - establishing exposure (GPS tracker, introduces the biases of who likes to always tracked) 
+ 
+ ### Outcome measures
+ 
+ | Group | Steps taken
+ |--:|:--|
+ |A|X|
+ B | X+w|
+ 
+ ###Fitbit API
